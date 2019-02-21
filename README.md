@@ -1,2 +1,2 @@
 # fahrenheit calculator
-## by slava chub
+## by Slava Chub
